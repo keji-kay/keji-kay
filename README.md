@@ -3,7 +3,7 @@
 ### Data Analyst | Business Intelligence | Data Operations
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,pandas,numpy,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github" />
 </p>
 
 <p align="left">
