@@ -100,35 +100,7 @@ into insights that create measurable value.
 
 # 📌 Featured Projects
 
-## 
-ion challenges
-- Developed customer revenue segmentation
-- Identified a high-spender segment responsible for 98% of yearly revenue
-
-**Focus:** SQL • Customer Segmentation • Revenue Analytics • Business Intelligence
-
----
-
-## 🔹 Palladium Bank Retail Dimensional Data Modelling
-
-**PostgreSQL | Data Warehousing | Star Schema**
-
-Designed a dimensional data model for analytical banking workloads.
-
-### Key Highlights
-
-- Designed a Star Schema architecture
-- Implemented Slowly Changing Dimension Type 2
-- Tracked changes in customer profiles
-- Applied monthly data partitioning
-- Implemented B-Tree indexing strategies
-- Focused on improving analytical query performance
-
-**Focus:** Data Warehousing • Data Modelling • SQL • Database Optimization
-
----
-
-## (https://github.com/keji-kay?tab=repositories)
+### https://github.com/keji-kay?tab=repositories
 ### https://drive.google.com/drive/folders/1higxNQ3WIlkWscFwAj9cd8Uzp-_6ZlWu
 
 
