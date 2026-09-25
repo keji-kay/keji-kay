@@ -100,39 +100,8 @@ into insights that create measurable value.
 
 # 📌 Featured Projects
 
-## 🔹 Financial Fraud Pattern Detection & Graph Analytics
-
-**Python | Pandas | NetworkX | Elliptic Bitcoin Dataset**
-
-Developed a network-based fraud analytics pipeline to investigate
-suspicious transaction patterns within the Elliptic Bitcoin dataset.
-
-### Key Highlights
-
-- Built transaction networks using NetworkX
-- Processed and analyzed data using Pandas
-- Identified high-risk transaction patterns
-- Isolated 203 fan-out nodes associated with rapid asset dispersal
-- Flagged 36 critical unlabelled network nodes positioned at the center
-  of suspicious activities
-
-**Focus:** Fraud Analytics • Graph Analytics • Financial Data • Python
-
----
-
-## 🔹 TradeZone E-Commerce Advanced Business Analysis
-
-**PostgreSQL | SQL | Business Analytics**
-
-Performed advanced SQL analysis on two years of retail transaction data
-to uncover customer, regional and revenue insights.
-
-### Key Highlights
-
-- Cleaned and standardized multi-table transactional data
-- Developed complex relational SQL queries
-- Analyzed regional performance
-- Investigated consumer conversion challenges
+## 
+ion challenges
 - Developed customer revenue segmentation
 - Identified a high-spender segment responsible for 98% of yearly revenue
 
@@ -159,25 +128,9 @@ Designed a dimensional data model for analytical banking workloads.
 
 ---
 
-## 🔹 HNG Ride Operational Performance Analytics
+## (https://github.com/keji-kay?tab=repositories)
+### https://drive.google.com/drive/folders/1higxNQ3WIlkWscFwAj9cd8Uzp-_6ZlWu
 
-**Python | SQLite | SQL | ETL**
-
-Developed an automated data ingestion and quality-assurance workflow
-for ride operational data.
-
-### Key Highlights
-
-- Built a data ingestion and cleaning pipeline
-- Used Python and SQLite for data processing
-- Applied SQL temporal functions
-- Used window functions for analytical calculations
-- Analyzed customer retention behaviour
-- Investigated regional cancellation patterns
-
-**Focus:** ETL • Operational Analytics • SQL • Python • Data Quality
-
----
 
 # 📚 Data Analytics Challenges
 
